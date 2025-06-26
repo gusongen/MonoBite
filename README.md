@@ -1,4 +1,4 @@
-# 3D Food Reconstruction and Volume Estimation Project
+#  MonoBite: Scale-Aware 3D Reconstruction and Volume Estimation from Monocular Multi-Food Images
 
 This project is the 1st place solution for [CVPR 2025 - 2nd MetaFood Workshop](https://sites.google.com/view/cvpr-metafood-2025/challenge-1) Challenge 1 (3D Reconstruction From Monocular Multi-Food Images). The core script `main.py` can automatically process multiple food instances in batch, reconstruct multiple food items from a single RGB image, and output the 3D volume prediction for each food, supporting food nutrition analysis and health management.
 
