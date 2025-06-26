@@ -1,0 +1,35 @@
+Combo Index,Combo Name,Food Index,Food Name,With Container?,Private or Public,root,image,instance_id
+1,bagel+cream_cheese,1,bagel,,Public,food_combos/1-bagel_cream_cheese,food_combos/1-bagel_cream_cheese/1.jpeg,2
+1,bagel+cream_cheese,2,cream_cheese,,Public,food_combos/1-bagel_cream_cheese,food_combos/1-bagel_cream_cheese/1.jpeg,1
+2,breaded_fish+lemon+broccoli,3,breaded_fish,,Public,food_combos/2-breaded_fish_lemon_broccoli,food_combos/2-breaded_fish_lemon_broccoli/2.JPG,1
+2,breaded_fish+lemon+broccoli,4,lemon,,Public,food_combos/2-breaded_fish_lemon_broccoli,food_combos/2-breaded_fish_lemon_broccoli/2.JPG,2
+2,breaded_fish+lemon+broccoli,5,broccoli,,Public,food_combos/2-breaded_fish_lemon_broccoli,food_combos/2-breaded_fish_lemon_broccoli/2.JPG,3
+3,burger+hot_dog,6,burger,,Public,food_combos/3-burger_hot_dog,food_combos/3-burger_hot_dog/3.jpeg,3
+3,burger+hot_dog,7,hotdog,,Public,food_combos/3-burger_hot_dog,food_combos/3-burger_hot_dog/3.jpeg,2
+4,cheesecake+strawberry+raspberry,8,cheesecake,,Public,food_combos/4-cheesecake_strawberry_raspberry,food_combos/4-cheesecake_strawberry_raspberry/4.JPG,3
+4,cheesecake+strawberry+raspberry,9,strawberry,,Public,food_combos/4-cheesecake_strawberry_raspberry,food_combos/4-cheesecake_strawberry_raspberry/4.JPG,1
+4,cheesecake+strawberry+raspberry,10,raspberry,,Public,food_combos/4-cheesecake_strawberry_raspberry,food_combos/4-cheesecake_strawberry_raspberry/4.JPG,2
+5,energy_bar+cheddar_cheese+banana,11,energy_bar,,Private,food_combos/5-energy_bar_cheddar_cheese_banana,food_combos/5-energy_bar_cheddar_cheese_banana/5.jpeg,1
+5,energy_bar+cheddar_cheese+banana,12,cheddar_cheese,,Private,food_combos/5-energy_bar_cheddar_cheese_banana,food_combos/5-energy_bar_cheddar_cheese_banana/5.jpeg,3
+5,energy_bar+cheddar_cheese+banana,13,banana,,Private,food_combos/5-energy_bar_cheddar_cheese_banana,food_combos/5-energy_bar_cheddar_cheese_banana/5.jpeg,2
+6,grilled_salmon+broccoli,14,grilled_salmon,,Private,food_combos/6-grilled_salmon_broccoli,food_combos/6-grilled_salmon_broccoli/6.JPG,2
+7,pasta+garlic_bread,15,pasta,With Bowl,Private,food_combos/7-pasta_garlic_bread,food_combos/7-pasta_garlic_bread/7.JPG,1
+7,pasta+garlic_bread,16,garlic_bread,,Private,food_combos/7-pasta_garlic_bread,food_combos/7-pasta_garlic_bread/7.JPG,2
+8,pbj+carrot_stick+apple+celery,17,pb&j,,Private,food_combos/8-pbj_carrot_stick_apple_celery,food_combos/8-pbj_carrot_stick_apple_celery/8.jpeg,1
+8,pbj+carrot_stick+apple+celery,18,carrot_stick,,Private,food_combos/8-pbj_carrot_stick_apple_celery,food_combos/8-pbj_carrot_stick_apple_celery/8.jpeg,4
+8,pbj+carrot_stick+apple+celery,19,apple,,Private,food_combos/8-pbj_carrot_stick_apple_celery,food_combos/8-pbj_carrot_stick_apple_celery/8.jpeg,3
+8,pbj+carrot_stick+apple+celery,20,celery,,Private,food_combos/8-pbj_carrot_stick_apple_celery,food_combos/8-pbj_carrot_stick_apple_celery/8.jpeg,2
+9,pizza+chicken_wing,21,pizza,,Private,food_combos/9-pizza_chicken_wing,food_combos/9-pizza_chicken_wing/9.JPG,1
+9,pizza+chicken_wing,22,chicken_wing,,Private,food_combos/9-pizza_chicken_wing,food_combos/9-pizza_chicken_wing/9.JPG,2
+10,quesadilla+guacamole+salsa,23,quesadilla,,Private,food_combos/10-quesadilla_guacamole_salsa,food_combos/10-quesadilla_guacamole_salsa/10.JPG,2
+10,quesadilla+guacamole+salsa,24,guacamole,With Cup,Private,food_combos/10-quesadilla_guacamole_salsa,food_combos/10-quesadilla_guacamole_salsa/10.JPG,3
+10,quesadilla+guacamole+salsa,25,salsa,With Cup,Private,food_combos/10-quesadilla_guacamole_salsa,food_combos/10-quesadilla_guacamole_salsa/10.JPG,1
+11,roast_chicken_leg+biscuit,26,roast_chicken_leg,,Private,food_combos/11-roast_chicken_leg_biscuit,food_combos/11-roast_chicken_leg_biscuit/11.JPG,1
+11,roast_chicken_leg+biscuit,27,biscuit,,Private,food_combos/11-roast_chicken_leg_biscuit,food_combos/11-roast_chicken_leg_biscuit/11.JPG,2
+12,sandwich+cookie,28,sandwich,,Private,food_combos/12-sandwich_cookie,food_combos/12-sandwich_cookie/12.jpeg,3
+12,sandwich+cookie,29,cookie,,Private,food_combos/12-sandwich_cookie,food_combos/12-sandwich_cookie/12.jpeg,1
+13,steak+mashed_potatoes,30,steak,,Private,food_combos/13-steak_mashed_potatoes,food_combos/13-steak_mashed_potatoes/13.JPG,2
+13,steak+mashed_potatoes,31,mashed_potatoes,With Bowl,Private,food_combos/13-steak_mashed_potatoes,food_combos/13-steak_mashed_potatoes/13.JPG,1
+14,toast+sausage+fried_egg,32,toast,,Private,food_combos/14-toast_sausage_fried_egg,food_combos/14-toast_sausage_fried_egg/14.jpeg,1
+14,toast+sausage+fried_egg,33,sausage,,Private,food_combos/14-toast_sausage_fried_egg,food_combos/14-toast_sausage_fried_egg/14.jpeg,2
+14,toast+sausage+fried_egg,34,fried_egg,,Private,food_combos/14-toast_sausage_fried_egg,food_combos/14-toast_sausage_fried_egg/14.jpeg,3
